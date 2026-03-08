@@ -12,7 +12,7 @@ I enjoy working with **data, visualization, and AI-assisted analysis** to uncove
 
 ### Data Analysis
 
-* Data Cleaning & Data Transformation
+* Data Cleaning & Transformation
 * Exploratory Data Analysis (EDA)
 * KPI & Business Performance Analysis
 * Insight Generation & Data Storytelling
@@ -33,9 +33,30 @@ I enjoy working with **data, visualization, and AI-assisted analysis** to uncove
 
 # 📊 Featured Data Analysis Projects
 
-## 🛒 Power BI Superstore Sales Analysis
+## ☕ Coffee Shop Sales Dashboard
+
+Excel-based dashboard analyzing sales performance of a coffee shop.
+
+🔗 Project Link:
+https://github.com/AviGupta77/Coffee-Shop-Sales
+
+Key Highlights:
+
+* Built interactive Excel dashboard
+* Analyzed sales performance and trends
+* Visualized product performance and revenue insights
+
+Tools Used:
+Excel • Data Visualization • Dashboarding
+
+---
+
+## 📊 Power BI Superstore Sales Analysis
 
 Interactive Power BI dashboard analyzing sales performance across regions and categories.
+
+🔗 Project Link:
+https://github.com/AviGupta77/Power-BI-Superstore-Sales-Analysis
 
 Key Highlights:
 
@@ -52,6 +73,9 @@ Power BI • DAX • Data Visualization
 
 SQL-based analysis project extracting business insights from pizza sales data.
 
+🔗 Project Link:
+https://github.com/AviGupta77/sql-pizza-sales-analysis
+
 Key Highlights:
 
 * Wrote SQL queries for sales insights
@@ -63,24 +87,12 @@ SQL • Data Analysis
 
 ---
 
-## 🏥 Hospital Emergency Room Dashboard
-
-Excel dashboard analyzing hospital emergency room patient data.
-
-Key Highlights:
-
-* Built dashboard using **Power Query and Pivot Tables**
-* Analyzed patient flow and waiting times
-* Identified department workload patterns
-
-Tools Used:
-Excel • Power Query • Pivot Tables
-
----
-
 ## 🚗 Road Accident Data Analysis
 
-Exploratory data analysis project on road accident datasets.
+Exploratory data analysis project analyzing road accident datasets.
+
+🔗 Project Link:
+https://github.com/AviGupta77/Road-Accident-Data-Analysis
 
 Key Highlights:
 
@@ -93,26 +105,31 @@ Excel • Data Visualization
 
 ---
 
-## 🎧 Spotify Dashboard
+## 🏥 Hospital Emergency Room Dashboard
 
-Data visualization project exploring music listening patterns.
+Excel dashboard analyzing hospital emergency room patient data.
+
+🔗 Project Link:
+https://github.com/AviGupta77/Hospital-Emergency-Room-Dashboard
 
 Key Highlights:
 
-* Built dashboard for music popularity insights
-* Visualized trends in listening behavior
-* Analyzed track performance
+* Built dashboard using **Power Query and Pivot Tables**
+* Analyzed patient flow and waiting times
+* Identified department workload patterns
 
 Tools Used:
-Data Visualization • Dashboarding
+Excel • Power Query • Pivot Tables
 
 ---
 
 # 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/your-linkedin
+LinkedIn:
+[www.linkedin.com/in/avi-gupta-b4647b204](http://www.linkedin.com/in/avi-gupta-b4647b204)
 
 ---
 
 ⭐ Open to entry-level opportunities in
 **Data Analysis | Business Analysis | MIS / Reporting Analyst roles**
+
